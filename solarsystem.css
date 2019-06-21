@@ -1,0 +1,141 @@
+*
+{
+       padding:0px;
+       margin:0px
+   }
+        
+    h1
+    {
+            color:blue;
+    }
+    h2
+    {
+        color:blue;
+        display:center;
+        width: 500px;
+        text-align:left;
+        margin:50px;
+        padding:5px 0 0 250px;
+    }
+    h2.a
+    {
+        color:black;
+        display:center;
+        width: 150px;
+        text-align:left;
+        margin:50px;
+       
+    }
+    h3
+    {
+        color:blue;
+        display:right;
+        
+        
+    }
+    h4
+    {
+        
+        list-style-type: circle;
+        margin: 0;
+        padding: 0;
+        width: 200px;
+        
+    }
+   
+       
+   menu
+   {
+      
+       list-style:none;
+       text-align:center;
+       display:inline-block;
+       width:500px;
+       margin:20px;
+       padding:3px 0 0 10px;
+       overflow:hidden;
+   }
+   img
+   {
+       float:right;
+       border-radius:15px;
+       
+   }
+    ul
+    {      
+        margin: 0;
+        padding: 0;     
+      }
+    li  {
+        list-style-type:none;
+        float: left;
+        padding:0 35px ; 
+           
+    }
+   
+
+
+
+    li a {
+    display: block;
+    text-align:center;
+    padding: 4px 6px;
+    text-decoration:none;
+
+}
+    li a:hover {
+        background-color:#75f5ce;
+        text-decoration:underline;
+    }
+     p
+     {
+        display:center;        
+        width: 500px;
+        text-align:left;
+        margin:0 0 0 0;
+        padding:0 0 0 275px;
+     }
+    
+     
+     thead
+     {
+         color:blue;
+     }
+     caption
+     {
+         color:rgb(38, 0, 255);
+         font-weight:200;
+    }
+    tfoot{
+        display:justify;
+    }
+    .column
+    {
+        width:200px;
+        float:left;
+        margin:0 5 0 600px;
+        
+        
+        
+    }
+    section{
+        float:right;
+        
+    }
+    aside{
+        float:left;
+        width:250px;
+    }
+    hr
+    {
+        color:blue;
+    }
+    footer
+    {
+        list-style-type:circle;
+    }
+    ul.a{
+        list-style-type:circle;
+    }
+
+    
