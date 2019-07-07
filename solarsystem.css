@@ -130,12 +130,18 @@
     {
         color:blue;
     }
-    footer
-    {
-        list-style-type:circle;
+    footer {
+        clear:left;
+        border-top: thin solid blue;
     }
-    ul.a{
-        list-style-type:circle;
+    footer section {
+        width: 33%;
+        float:left;
     }
+    .footer-list {
+        position:relative;
+        top: -20px;
+    }
+    
 
     
